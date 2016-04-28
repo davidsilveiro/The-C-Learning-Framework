@@ -61,27 +61,33 @@ def arithmetic_Ops():
 
     else:
         print("Incorrect!")
-
-
+    
+  
+    
     print("What does the '%' operator do? \n \
           1)Modulus Operator and remainder\n \
           of after an integer division    \n \
           2)Mutiples the variable by 12   \n \
           3)All of the above              \n")
 
-        if ans_1 == 1:
+    ans_5 = raw_input("Answer: ")
+
+        if ans_5 == 1:
         arithmetic_Score += 1
         print("Correct!")
 
     else:
         print("Incorrect!")
+        
 
+    print("What does the '++' operator do?\n \
+           1) Deincrements                \n \
+           2) Increments                  \n \
+           3) Addition                    \n")
 
+    ans_6 = raw_input("Answer: ")
 
-    print("What does the '++' operator do?\n
-           1)")
-
-    if ans_1 == 1:
+    if ans_6 == 2:
         arithmetic_Score += 1
         print("Correct!")
 
