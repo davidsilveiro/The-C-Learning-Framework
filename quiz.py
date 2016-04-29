@@ -114,7 +114,20 @@ def arithmetic_Ops():
 
 def relational_Ops():
 
+    # ==
+    # !=
+    # >
+    # <
+    # >=
+    # <=
+    
+
 def logical_Ops():
+
+    # &&
+    # ||
+    # !
+    # ? :
 
 def bitwise_Ops():
 
