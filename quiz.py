@@ -4,7 +4,6 @@
 def arithmetic_Ops():
 
     arithmetic_Score = 0
-    arithmetic_Fail  = []
 
     print("What does the '+' operator do?\n \
            1) Add                        \n \
