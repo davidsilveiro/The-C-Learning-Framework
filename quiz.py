@@ -133,3 +133,7 @@ def main():
 
     print("Author: David Silveiro                    \n \
           
+
+
+if __name__ == "__main__":
+    main()
