@@ -62,7 +62,6 @@ def arithmetic_Ops():
     else:
         print("Incorrect!")
     
-  
     
     print("What does the '%' operator do? \n \
           1)Modulus Operator and remainder\n \
@@ -95,24 +94,22 @@ def arithmetic_Ops():
         print("Incorrect!")
 
 
-    print("What does the '--' operator do?")
+    print("What does the '--' operator do?  \n \
+          1) Mutiples variable by negative  \n \
+          2) Cancels out the variables value\n \
+          3) Deincrements a variables value \n")
 
-    if ans_1 == 1:
+    ans_7 = raw_input("Answer: ")
+
+    if ans_7 == 3:
         arithmetic_Score += 1
         print("Correct!")
-
+        
     else:
         print("Incorrect!")
 
 
-
-
     return ("Score: %s")% str(arthmetic_Score))
-
-
-
-
-
 
 
 def relational_Ops():
