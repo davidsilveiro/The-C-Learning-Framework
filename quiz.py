@@ -130,8 +130,27 @@ def logical_Ops():
     # ? :
 
 def bitwise_Ops():
+    
+    # &
+    # |
+    # ^
+    # ~
+    # <<
+    # >>
 
 def assignment_Ops():
+
+    # =
+    # +=
+    # -=
+    # *=
+    # /=
+    # %=
+    # <<=
+    # >>=
+    # &=
+    # ^=
+    # |=
 
 def memory_Functions():
 
