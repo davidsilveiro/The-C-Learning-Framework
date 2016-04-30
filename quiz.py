@@ -114,11 +114,18 @@ def arithmetic_Ops():
 def relational_Ops():
 
     # ==
+    print()
     # !=
+    print()
     # >
+    print()
     # <
+    print()
     # >=
+    print()
     # <=
+    
+    return()
     
 
 def logical_Ops():
