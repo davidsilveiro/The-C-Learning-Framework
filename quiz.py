@@ -70,7 +70,7 @@ def arithmetic_Ops():
 
     ans_5 = raw_input("Answer: ")
 
-        if ans_5 == 1:
+    if ans_5 == 1:
         arithmetic_Score += 1
         print("Correct!")
 
@@ -116,11 +116,16 @@ def relational_Ops():
     # ==
     print()
     
+    ans_1 = raw_input("Answer: ")
+    
+    
     else:
         print("Incorrect!")
     
     # !=
     print()
+    
+    ans_2 = raw_input("Answer: ")
     
     else:
         print("Incorrect!")
@@ -128,11 +133,15 @@ def relational_Ops():
     # >
     print()
     
+    ans_3 = raw_input("Answer: ")
+    
     else:
         print("Incorrect!")
     
     # <
     print()
+    
+    ans_4 = raw_input("Answer: ")
     
     else:
         print("Incorrect!")
@@ -140,11 +149,15 @@ def relational_Ops():
     # >=
     print()
     
+    ans_5 = raw_input("Answer: ")
+    
     else:
         print("Incorrect!")
     
     # <=
     print()
+    
+    ans_6 = raw_input("Answer: ")
     
     else:
         print("Incorrect!")
