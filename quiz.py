@@ -114,7 +114,7 @@ def arithmetic_Ops():
 def relational_Ops():
 
     # ==
-    print()
+    print("What does the '==' operator do?  \n \)
     
     ans_1 = raw_input("Answer: ")
     
@@ -123,7 +123,7 @@ def relational_Ops():
         print("Incorrect!")
     
     # !=
-    print()
+    print("What does the '!=' operator do?  \n \)
     
     ans_2 = raw_input("Answer: ")
     
@@ -131,7 +131,7 @@ def relational_Ops():
         print("Incorrect!")
     
     # >
-    print()
+    print("What does the '>' operator do?  \n \)
     
     ans_3 = raw_input("Answer: ")
     
@@ -139,7 +139,7 @@ def relational_Ops():
         print("Incorrect!")
     
     # <
-    print()
+    print("What does the '<' operator do?  \n \)
     
     ans_4 = raw_input("Answer: ")
     
@@ -147,7 +147,7 @@ def relational_Ops():
         print("Incorrect!")
     
     # >=
-    print()
+    print("What does the '>=' operator do?  \n \)
     
     ans_5 = raw_input("Answer: ")
     
@@ -155,7 +155,7 @@ def relational_Ops():
         print("Incorrect!")
     
     # <=
-    print()
+    print("What does the '<=' operator do?  \n \)
     
     ans_6 = raw_input("Answer: ")
     
