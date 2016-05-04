@@ -23,7 +23,7 @@ def arithmetic_Ops():
     print("What does the '-' operator do?\n \
            1) Subtracts a variables falue\n \
            2) Mutiples a variables falue \n \
-           3) All of the above           \n ")
+           3) All of the above           \n")
  
     ans_2 = int(raw_input("Answer: "))
 
@@ -238,7 +238,15 @@ def memory_Functions():
 def main():
 
     print("Author: David Silveiro                    \n \
-          
+    
+    print("Would you like to start from a specific place, \
+           or perhaps an exact module?")
+           
+    print("1) From the beginning     \n \
+           2) Level 1: Operations    \n \
+           3) Level 2:               \n \
+           4)                        \n \
+           5)                        \n")
 
 
 if __name__ == "__main__":
