@@ -1,4 +1,4 @@
-# C-Quiz
+# The C Learning Framework
 A yet to be finished quiz that runs in the terminal, under linux, written in python. Author: David Silveiro
 
 Level 1 Operater fu!:
