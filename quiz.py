@@ -14,7 +14,7 @@ def arithmetic_Ops():
 
     if ans_1 == 1:
         arithmetic_Score += 1
-        print("Correct!")
+        print("Correct!  ")
 
     else:
         print("Incorrect!")
@@ -29,7 +29,7 @@ def arithmetic_Ops():
 
     if ans_2 == 1:
         arithmetic_Score += 1 
-        print("Correct!")
+        print("Correct!  ")
     else:
         print("Incorrect!")
          
@@ -43,7 +43,7 @@ def arithmetic_Ops():
 
     if ans_3 == 3:
         arithmetic_Score += 1
-        print("Correct!")
+        print("Correct!  ")
     else:
         print("Incorrect!")
 
@@ -56,7 +56,7 @@ def arithmetic_Ops():
 
     if ans_4 == 3:
         arithmetic_Score += 1
-        print("Correct!")
+        print("Correct!  ")
 
     else:
         print("Incorrect!")
@@ -72,7 +72,7 @@ def arithmetic_Ops():
 
     if ans_5 == 1:
         arithmetic_Score += 1
-        print("Correct!")
+        print("Correct!  ")
 
     else:
         print("Incorrect!")
@@ -87,7 +87,7 @@ def arithmetic_Ops():
 
     if ans_6 == 2:
         arithmetic_Score += 1
-        print("Correct!")
+        print("Correct!  ")
 
     else:
         print("Incorrect!")
@@ -102,7 +102,7 @@ def arithmetic_Ops():
 
     if ans_7 == 3:
         arithmetic_Score += 1
-        print("Correct!")
+        print("Correct!  ")
         
     else:
         print("Incorrect!")
