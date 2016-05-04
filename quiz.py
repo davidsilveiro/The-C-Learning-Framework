@@ -175,15 +175,15 @@ def logical_Ops():
     # ||
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_2 = raw_input("Answer: ")
     # !
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_3 = raw_input("Answer: ")
     # ? :
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_4 = raw_input("Answer: ")
 
 def bitwise_Ops():
     
@@ -194,23 +194,23 @@ def bitwise_Ops():
     # |
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_2 = raw_input("Answer: ")
     # ^
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_3 = raw_input("Answer: ")
     # ~
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_4 = raw_input("Answer: ")
     # <<
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_5 = raw_input("Answer: ")
     # >>
     print()
     
-    ans_1 = raw_input("Answer: ")
+    ans_6 = raw_input("Answer: ")
 
 def assignment_Ops():
 
