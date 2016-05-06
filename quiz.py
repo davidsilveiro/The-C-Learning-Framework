@@ -118,6 +118,9 @@ def relational_Ops():
     
     ans_1 = raw_input("Answer: ")
     
+        arithmetic_Score += 1
+        print("Correct!  ")
+    
     
     else:
         print("Incorrect!")
@@ -127,6 +130,10 @@ def relational_Ops():
     
     ans_2 = raw_input("Answer: ")
     
+    
+        arithmetic_Score += 1
+        print("Correct!  ")
+
     else:
         print("Incorrect!")
     
