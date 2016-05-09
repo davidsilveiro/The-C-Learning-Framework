@@ -142,6 +142,9 @@ def relational_Ops():
     
     ans_3 = raw_input("Answer: ")
     
+        arithmetic_Score += 1
+        print("Correct!  ")
+    
     else:
         print("Incorrect!")
     
@@ -149,6 +152,9 @@ def relational_Ops():
     print("What does the '<' operator do?  \n \)
     
     ans_4 = raw_input("Answer: ")
+    
+        arithmetic_Score += 1
+        print("Correct!  ")
     
     else:
         print("Incorrect!")
@@ -158,6 +164,9 @@ def relational_Ops():
     
     ans_5 = raw_input("Answer: ")
     
+        arithmetic_Score += 1
+        print("Correct!  ")
+    
     else:
         print("Incorrect!")
     
@@ -165,6 +174,9 @@ def relational_Ops():
     print("What does the '<=' operator do?  \n \)
     
     ans_6 = raw_input("Answer: ")
+    
+        arithmetic_Score += 1
+        print("Correct!  ")
     
     else:
         print("Incorrect!")
