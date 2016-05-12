@@ -142,6 +142,8 @@ def relational_Ops():
     
     ans_3 = raw_input("Answer: ")
     
+    
+    if:
         arithmetic_Score += 1
         print("Correct!  ")
     
@@ -153,6 +155,7 @@ def relational_Ops():
     
     ans_4 = raw_input("Answer: ")
     
+    if:
         arithmetic_Score += 1
         print("Correct!  ")
     
@@ -164,6 +167,7 @@ def relational_Ops():
     
     ans_5 = raw_input("Answer: ")
     
+    if:
         arithmetic_Score += 1
         print("Correct!  ")
     
@@ -175,6 +179,7 @@ def relational_Ops():
     
     ans_6 = raw_input("Answer: ")
     
+    if:
         arithmetic_Score += 1
         print("Correct!  ")
     
