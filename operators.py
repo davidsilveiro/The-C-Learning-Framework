@@ -268,3 +268,62 @@ def relational_Ops():
     
     return()
     
+def logical_Ops():
+
+    # &&
+    print()
+    
+    ans_1 = raw_input("Answer: ")
+    # ||
+    print()
+    
+    ans_2 = raw_input("Answer: ")
+    # !
+    print()
+    
+    ans_3 = raw_input("Answer: ")
+    # ? :
+    print()
+    
+    ans_4 = raw_input("Answer: ")
+
+def bitwise_Ops():
+    
+    # &
+    print()
+    
+    ans_1 = raw_input("Answer: ")
+    # |
+    print()
+    
+    ans_2 = raw_input("Answer: ")
+    # ^
+    print()
+    
+    ans_3 = raw_input("Answer: ")
+    # ~
+    print()
+    
+    ans_4 = raw_input("Answer: ")
+    # <<
+    print()
+    
+    ans_5 = raw_input("Answer: ")
+    # >>
+    print()
+    
+    ans_6 = raw_input("Answer: ")
+
+def assignment_Ops():
+
+    # =
+    # +=
+    # -=
+    # *=
+    # /=
+    # %=
+    # <<=
+    # >>=
+    # &=
+    # ^=
+    # |=
