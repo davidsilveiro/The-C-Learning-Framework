@@ -2,8 +2,8 @@
  An in progress learning framework for the C language. Hoping to make this fun and enjoyable over time, C's hard,
  lets learn it with patience! Author: David Silveiro
 
-### Introduction explaing purpose, levels, interaction more simply to the user. ###
-### While also refraining from using too much complicated lingo.                ###
+""" Introduction explaing purpose, levels, interaction more simply to the user."""
+""" While also refraining from using too much complicated lingo.               """
 
 
 Shell Syntax (TODO):
