@@ -1,7 +1,19 @@
 # The C Learning Framework
-A yet to be finished quiz that runs in the terminal, under linux, written in python. Author: David Silveiro
+ An in progress learning framework for the C language. Hoping to make this fun and enjoyable over time, C's hard,
+ lets learn it with patience! Author: David Silveiro
 
-Level 1 Operater fu!:
+### Introduction explaing purpose, levels, interaction more simply to the user. ###
+### While also refraining from using too much complicated lingo.                ###
+
+
+Shell Syntax (TODO):
+
+""" Creating a smooth and easy way to compile with GCC for beginners """
+""" Also Navigation of some kind                                     """
+""" Playing source material (youtube videos)                         """
+
+
+Level 1 Operater Fu:
 
 You'll be faced with triple answer questions, it wont be easy!
 
