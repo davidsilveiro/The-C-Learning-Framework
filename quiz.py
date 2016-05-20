@@ -1,4 +1,5 @@
 
+
 def memory_Functions():
 
     #Memset
@@ -20,6 +21,12 @@ def main():
            3) Level 2:               \n \
            4)                        \n \
            5)                        \n")
+    
+    answer = int(raw_input("Answer: "))
+    
+    if answer == 1:
+        from modules import operators 
+        
 
 
 if __name__ == "__main__":
