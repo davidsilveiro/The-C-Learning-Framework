@@ -25,7 +25,9 @@ def main():
     answer = int(raw_input("Answer: "))
     
     if answer == 1:
-        from modules import operators 
+        from modules import operators
+    elif answer == 2:
+        from modules import memory
         
 
 
