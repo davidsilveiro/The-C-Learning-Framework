@@ -1,14 +1,5 @@
 
 
-def memory_Functions():
-
-    #Memset
-    #Memmov
-    #memchr
-    #memcpy
-
-
-
 def main():
 
     print("Author: David Silveiro                  \n \
@@ -28,7 +19,13 @@ def main():
         from modules import operators
     elif answer == 2:
         from modules import memory
+    elif answer == 3:
         
+    elif answer == 4:
+        
+    elif answer == 5:
+    
+    else:
 
 
 if __name__ == "__main__":
