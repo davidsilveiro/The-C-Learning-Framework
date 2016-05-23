@@ -26,6 +26,7 @@ def main():
     elif answer == 5:
     
     else:
+        print("Option not recognized")
 
 
 if __name__ == "__main__":
