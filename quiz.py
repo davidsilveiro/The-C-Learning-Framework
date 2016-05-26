@@ -2,16 +2,16 @@
 
 def main():
 
-    print("Author: David Silveiro                  \n \
-    
-    print("Would you like to start from the start? \n \
-          Or perhaps an exact level?               \n")
+    print("Welcome to the C learning framework!        \n")
+
+    print("Would you like to start from the beginning? \n \
+          Or perhaps an exact level?                   \n")
            
-    print("1) From the beginning         \n \
-           2) Level 1: Operations        \n \
-           3) Level 2:  Memory functions \n \
-           4)                            \n \
-           5)                            \n")
+    print("1) From the beginning                       \n \
+           2) Level 1: Operations                      \n \
+           3) Level 2:  Memory functions               \n \
+           4)                                          \n \
+           5)                                          \n")
     
     answer = int(raw_input("Answer: "))
     
